@@ -9,5 +9,8 @@
     "styles": [
         "style.css"
     ],
-    "packs": []
+    "packs": [],
+    "url": "https://github.com/freedomischaos/foundryvtt-always-show-rolls",
+	"manifest": "https://raw.githubusercontent.com/freedomischaos/foundryvtt-always-show-rolls/main/module.json",
+	"download": "https://github.com/freedomischaos/foundryvtt-always-show-rolls/archive/v001.zip"
 }
